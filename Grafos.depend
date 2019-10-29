@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1572307236 source:/home/linuxlite-anonymous/Projects/CodeBlocks/Grafos/main.cpp
+	<iostream>
+	"GraphAL.h"
+
+1572306329 /home/linuxlite-anonymous/Projects/CodeBlocks/Grafos/include/GraphAL.h
+	<algorithm>
+	<list>
+	"AdjacencyList.h"
+
+1572299726 source:/home/linuxlite-anonymous/Projects/CodeBlocks/Grafos/src/AdjacencyList.cpp
+	"AdjacencyList.h"
+
+1572287371 /home/linuxlite-anonymous/Projects/CodeBlocks/Grafos/include/AdjacencyList.h
+	<iostream>
+
+1572306961 source:/home/linuxlite-anonymous/Projects/CodeBlocks/Grafos/src/GraphAL.cpp
+	"GraphAL.h"
+
